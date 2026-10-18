@@ -14,10 +14,8 @@ else:
 # i += 1
 # if i % 2 == 0:
 #     print("Парне число:", i)
-    
-
-
-print("Непарне число:", i)
+else:
+print(f"Непарне число: {i}")
 
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
