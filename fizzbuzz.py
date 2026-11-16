@@ -9,5 +9,6 @@ def fizzbuzz(n):
         return str(n)
 
     for i in range (1,21):
-        print(fizzbuzz(i), end=" ")
-        
+        print(fizzbuzz(i), end= " ")
+
+
